@@ -1,0 +1,13 @@
+https://api.fda.gov/drug/event.json?search=patient.drug.openfda.pharm_class_epc:"nonsteroidal+anti-inflammatory+drug"&count=patient.reaction.reactionmeddrapt.exact
+
+https://api.fda.gov/drug/event.json?search=patient.drug.openfda.pharm_class_epc:brand_name="Claritin"
+
+https://api.fda.gov/drug/event.json?search=patient.drug.openfda.brand_name:"Claritin"
+
+https://api.fda.gov/drug/label?search=adverse_reactions:"Claritin"
+
+https://api.fda.gov/drug/label.jason?search=
+
+https://api.fda.gov/drug/label.json?search=pediatric_use:"prescription"&generic_name:"TAPENTADOL HYDROCHLORIDE"
+
+https://api.fda.gov/drug/label.json?search=brand_name:%22motrin%22
